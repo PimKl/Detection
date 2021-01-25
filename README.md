@@ -2,7 +2,7 @@
 VLP-16_Detection
 
 This is a piece of software using PCL to detect obstacles from data comming from the Velodyne VLP16 3D-LiDAR in real time, which was used as a proof of concept for a project. 
-This software is by no means finalised nor optimalised, as a large knowledge gap, limited hands on time with the sensor and overall time constraints were present during the (final) weeks of the project.
+This software is by no means fully tested nor optimalised, as a large knowledge gap, limited hands on time with the sensor and overall time constraints were present during the (final) weeks of the project.
 
 This software was heavily based of off 3 other other programs found around the internet. These 3 pieces of software are linked below:
 
