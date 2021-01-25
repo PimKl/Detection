@@ -12,3 +12,14 @@ This software was heavily based of off 3 other other programs found around the i
 2: Saving a point cloud to a PCD file, https://gist.github.com/UnaNancyOwen/d0b60eff8e1c8e52b080
 
 3: Obstacle detection from PCD files, https://github.com/olpotkin/Lidar-Obstacle-Detection
+
+
+Installation commands for Ubuntu:
+$> sudo apt install libpcl-dev
+$> cd ~
+$> git clone https://github.com/PimKl/Detection.git
+$> cd Detection/VLP16_Detection
+$> mkdir build && cd build
+$> cmake ..
+$> make
+$> ./environment
