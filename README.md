@@ -14,9 +14,7 @@ This software was heavily based of off 3 other other programs found around the i
 3: Obstacle detection from PCD files, https://github.com/olpotkin/Lidar-Obstacle-Detection
 
 
-
 Installation commands for Ubuntu:
-
 1. $> sudo apt install libpcl-dev
 2. $> cd ~
 3. $> git clone https://github.com/PimKl/Detection.git
