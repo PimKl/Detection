@@ -17,11 +17,11 @@ This software was heavily based of off 3 other other programs found around the i
 
 Installation commands for Ubuntu:
 
-.$> sudo apt install libpcl-dev
-.$> cd ~
-.$> git clone https://github.com/PimKl/Detection.git
-.$> cd Detection/VLP16_Detection
-.$> mkdir build && cd build
-.$> cmake ..
-.$> make
-.$> ./environment
+1. $> sudo apt install libpcl-dev
+2. $> cd ~
+3. $> git clone https://github.com/PimKl/Detection.git
+4. $> cd Detection/VLP16_Detection
+5. $> mkdir build && cd build
+6. $> cmake ..
+7. $> make
+8. $> ./environment
